@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Miracle-Mathias
+- 👀 I’m interested in Building responsive website and making technology more accessible 
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on with those with higher experience and knowledge 
+- 📫 How to reach me WhatsApp number:08029933404
